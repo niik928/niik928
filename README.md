@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikita Dongare
 
-### A passionate Full-Stack / Java Developer from India 🇮🇳  
+### A passionate Java Developer from India 
 
 ---
 
@@ -41,12 +41,17 @@
 
 ### 🛠️ Languages & Tools
 ![Java](https://img.shields.io/badge/Java-orange)
-![Spring](https://img.shields.io/badge/Spring-green)
-![HTML](https://img.shields.io/badge/HTML5-red)
-![CSS](https://img.shields.io/badge/CSS3-blue)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-red)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
-![Git](https://img.shields.io/badge/Git-black)
+
+![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 ---
 
