@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Nikita Dongare
 
-<!--
-**niik928/niik928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Full-Stack / Java Developer from India 🇮🇳  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Java & Spring Boot  
+- Web Development  
+- Git & GitHub  
+
+---
+
+### 👨‍💻 Projects
+🔗 All of my projects are available here:  
+👉 https://github.com/nikita-dongare
+
+---
+
+### 💬 Ask me about
+- Core Java  
+- Spring Boot  
+- HTML, CSS, JavaScript  
+- Git & GitHub
+- Android & IOS
+- ReactJS & NodeJS
+
+---
+
+### 📫 How to reach me
+📧 Email: dongarenikita198@gmail.com  
+💼 LinkedIn: 
+
+---
+
+### 🤝 Connect with me
+- LinkedIn  
+- GitHub  
+
+---
+
+### 🛠️ Languages & Tools
+![Java](https://img.shields.io/badge/Java-orange)
+![Spring](https://img.shields.io/badge/Spring-green)
+![HTML](https://img.shields.io/badge/HTML5-red)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
+![Git](https://img.shields.io/badge/Git-black)
+
+---
+
+⭐ **Thanks for visiting my profile!**
