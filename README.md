@@ -35,7 +35,8 @@
 
 ### 🤝 Connect with me
 - LinkedIn  
-- GitHub  
+[![GitHub](https://github.com/niik928/niik928)
+
 
 ---
 
