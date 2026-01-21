@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Projects
 🔗 All of my projects are available here:  
-👉 https://github.com/nikita-dongare
+👉 https://github.com/niik928
 
 ---
 
