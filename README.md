@@ -34,8 +34,8 @@
 ---
 
 ### 🤝 Connect with me
-- LinkedIn  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/niik928/niik928)
+- LinkedIn
+- GitHub
 
 
 ---
